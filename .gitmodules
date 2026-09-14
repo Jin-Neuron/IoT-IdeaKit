@@ -1,9 +1,3 @@
-[submodule "board/minimal/lib/RP2350"]
-	path = board/advanced/lib/RP2350
-	url = git@github.com:HDR/RP2350_KiCad.git
-[submodule "firmware/master"]
-	path = firmware/master
-	url = https://github.com/russhughes/st7789_mpy.git
 [submodule "firmware/st7789_mpy"]
 	path = firmware/st7789_mpy
 	url = https://github.com/russhughes/st7789_mpy.git
